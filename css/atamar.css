@@ -1,0 +1,30 @@
+@import url(../fonts/Heebo-Black.css);
+@import url(../fonts/Heebo-Bold.css);
+@import url(../fonts/Heebo-Medium.css);
+@import url(../fonts/Heebo-Regular.css);
+
+.h-black {
+    font-family: 'Heebo-Black', sans-serif;
+}
+
+.h-bold {
+    font-family: 'Heebo-Bold', sans-serif;
+}
+
+.h-med {
+    font-family: 'Heebo-Medium', sans-serif;
+}
+
+.h-reg {
+    font-family: 'Heebo-Regular', sans-serif;
+}
+
+.fz-16 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #21243D;
+}
+
+.text-color {
+    color: #21243D;
+}

@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Heebo-Black';
+    src: url('Heebo-Black.woff') format('woff'),
+         url('Heebo-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }

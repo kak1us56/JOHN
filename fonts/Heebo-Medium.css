@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Heebo-Medium';
+    src: url('Heebo-Medium.woff') format('woff'),
+         url('Heebo-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
